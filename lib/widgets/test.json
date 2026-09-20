@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "prod_01GRECEWXVJGEYDB7GS2WEE7ZQ",
+      "title": "Medusa Coffee Mug",
+      "subtitle": "null",
+      "description": "Every programmer's best friend.",
+      "handle": "coffee-mug",
+      "status": "published",
+      "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/coffee-mug.png",
+      "weight": 400.5,
+      "variants": [
+        {
+          "id": "variant_01GRECEWY85J138HDCR9DASEH2",
+          "title": "One Size",
+          "inventory_quantity": 100.5,
+          "prices": [
+            {
+              "id": "ma_01GRECEWYB43B60QHK4ZF2AEWZ",
+              "currency_code": "eur",
+              "amount": 1000.5
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": "img_01GRECEWXSRQ5BSZMZFZB8DHZH",
+          "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/coffee-mug.png"
+        }
+      ]
+    }
+  ]
+}

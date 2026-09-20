@@ -1,6 +1,6 @@
 {
-    "name": "atlas_mobile_app",
-    "short_name": "atlas_mobile_app",
+    "name": "medusa_flutter",
+    "short_name": "medusa_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

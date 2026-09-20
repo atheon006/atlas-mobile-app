@@ -1,17 +1,37 @@
-# atlas_mobile_app
+# Build a Medusa Store with Flutter
 
-A new Flutter project.
+This repository is the codebase of tutorial [Build a Medusa Store with Flutter](tutorial-link).
 
-## Getting Started
+[Medusa Documentation](https://docs.medusajs.com/) | [Medusa Website](https://medusajs.com/) | [Medusa Repository](https://github.com/medusajs/medusa)
 
-This project is a starting point for a Flutter application.
+## Medusa Version
 
-A few resources to get you started if this is your first Flutter project:
+This tutorial uses Medusa v1.3.6. It is not guaranteed that it will work with future releases.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Node.js at least v14](https://docs.medusajs.com/tutorial/set-up-your-development-environment#nodejs)
+- [Flutter as leaset v3](https://docs.flutter.dev/get-started/install)
+
+## How to Install
+
+_You may change these steps per your article._
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Prn-Ice/medusa_flutter
+```
+
+2. Change directory and install dependencies:
+
+```bash
+cd medusa_flutter
+flutter pub get
+```
+
+3. Run the app:
+
+```bash
+flutter run
+```
